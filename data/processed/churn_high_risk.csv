@@ -1,0 +1,4 @@
+Contract,tenure_bucket,total_customers,churned,churn_rate_pct
+Month-to-month,0-6 mo,1413,780,55.2
+Month-to-month,7-12 mo,581,244,42.0
+Month-to-month,13+ mo,1881,631,33.5

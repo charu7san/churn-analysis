@@ -1,0 +1,6 @@
+tenure_bucket,total_customers,churned,churn_rate_pct
+0-6 mo,1470,784,53.3
+7-12 mo,705,253,35.9
+13-24 mo,1024,294,28.7
+25-48 mo,1594,325,20.4
+49-72 mo,2239,213,9.5
